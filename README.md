@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ppam1524
-- 👀 I’m interested in iOS, Andriod, Python, AWS, Azure
+- 👋 Hi, I’m Arepu Pavan Kumar
+- 👀 I’m interested in iOS, Andriod, Azure, Architecting Mobile App, 
 - 🌱 I’m currently refreshing Mobile Technologies, Rx
 - 💞️ I’m looking to collaborate on any Mobile Projects, Flutter, Swift
 - 📫 How to reach me (iOSDeveloper.ipa@gmail.com/+91 8121040308)
